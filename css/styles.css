@@ -1,0 +1,15 @@
+.product {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.product img {
+    max-width: 100px;
+    height: auto;
+}
+
+.category-btn {
+    margin: 5px;
+}
